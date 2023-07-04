@@ -15,3 +15,6 @@ For the solution, we have created and used five modules:
 3. securitygroup - creating network security group, setting desired security rules and associating them to subnets
 4. compute - creating availability sets, network interfaces and virtual machines
 5. database - creating database server and database
+
+![image](https://github.com/rachit1sharma/3tier-project/assets/105516791/c39c4060-b541-42c1-8f11-d169b51b4bae)
+
